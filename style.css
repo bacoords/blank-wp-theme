@@ -14,4 +14,6 @@ License URI: https://www.gnu.org/licenses/gpl.html
 
 body, html{
   font-family: 'Lato', sans-serif;
+  	-webkit-font-smoothing: antialiased;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
 }
