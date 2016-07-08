@@ -1,3 +1,3 @@
-# Custom Theme for LC Crossfit
+# Blank WP Theme
 
-based on Understrap
+based on Understrap - meant to be used with beaver builder
