@@ -1,3 +1,3 @@
-# blank-wp-theme
+# Custom Theme for LC Crossfit
 
-VERY blank theme for wordpress
+based on Understrap

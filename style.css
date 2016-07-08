@@ -1,23 +1,31 @@
 /*
-Theme Name: Blank WP Theme
-Theme URI: http://www.briancoords.com
+Theme Name: Blank WordPress Theme (from understrap)
+Theme URI: http://briancoords.com
 Author: Brian Coords
-Author URI: http://www.briancoords.com
-Description: An entirely empty theme for BB
-Version: 1.1.0
-License: GNU General Public License
-License URI: https://www.gnu.org/licenses/gpl.html
+Author URI: http://briancoords.com
+Description: Very Blank Theme with some basic Bootstrap stuff
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: understrap
+Tags: one-column, custom-menu, featured-images, theme-options, translation-ready
 
+This theme, like WordPress, is licensed under the GPL.
+UnderStrap is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+
+Resource Licenses:
+Font Awesome: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+Bootstrap: http://getbootstrap.com | https://github.com/twbs/bootstrap/blob/master/LICENSE (Code licensed under MIT, documentation under CC BY 3.0.)
+Owl Carousel 2: http://www.owlcarousel.owlgraphic.com/ | https://github.com/smashingboxes/OwlCarousel2/blob/develop/LICENSE (Code licensed under MIT)
+and of course
+jQuery: https://jquery.org | (Code licensed under MIT)
+WP Bootstrap Navwalker by Edward McIntyre: https://github.com/twittem/wp-bootstrap-navwalker | GNU GPL
 */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,900);
 
+/*
+This file is just used to identify the theme in WordPress.
+The compiled CSS output can be found in /css/theme.css
+The SASS sources for it can be found in /sass/
 
-body, html{
-  font-family: 'Lato', sans-serif;
-  	-webkit-font-smoothing: antialiased;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
-}
-
-a{
-  text-decoration: none;
-}
+...and now go out and play!
+*/
